@@ -1,0 +1,5 @@
+cURL Command:
+curl.exe -s -X POST "http://localhost:5000/api/auth/register" -H "Content-Type: application/json" --data-binary "@D:\giftlink\register-body.json"
+
+Output:
+{"message":"Email already registered"}

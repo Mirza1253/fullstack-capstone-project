@@ -1,0 +1,5 @@
+cURL Command:
+curl.exe -s "http://localhost:5000/api/gifts/6abd4b9021f2b0b72eed6f49"
+
+Output:
+{"_id":"6abd4b9021f2b0b72eed6f49","title":"Wooden Chair","description":"Good condition wooden chair.","category":"Furniture","location":"Lahore"}

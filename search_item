@@ -1,0 +1,5 @@
+cURL Command:
+curl.exe -s "http://localhost:5000/api/search?category=Furniture"
+
+Output:
+[{"_id":"6abd4b9021f2b0b72eed6f49","title":"Wooden Chair","description":"Good condition wooden chair.","category":"Furniture","location":"Lahore"},{"_id":"6abd4b9021f2b0b72eed6f4b","title":"Bookshelf","description":"Small bookshelf.","category":"Furniture","location":"Lahore"},{"_id":"6abd4b9021f2b0b72eed6f4d","title":"Coffee Table","description":"Compact coffee table.","category":"Furniture","location":"Lahore"},{"_id":"6abd4b9021f2b0b72eed6f52","title":"Study Table","description":"Simple study table.","category":"Furniture","location":"Lahore"},{"_id":"6abd4b9021f2b0b72eed6f57","title":"Side Table","description":"Small side table.","category":"Furniture","location":"Lahore"}]
