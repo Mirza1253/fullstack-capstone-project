@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Wooden Chair",
+    "description": "Good condition wooden chair.",
+    "category": "Furniture",
+    "location": "Lahore"
+  },
+  {
+    "title": "Desk Lamp",
+    "description": "Working desk lamp.",
+    "category": "Home",
+    "location": "Lahore"
+  },
+  {
+    "title": "Bookshelf",
+    "description": "Small bookshelf.",
+    "category": "Furniture",
+    "location": "Lahore"
+  },
+  {
+    "title": "Kitchen Plates",
+    "description": "Set of reusable plates.",
+    "category": "Kitchen",
+    "location": "Lahore"
+  },
+  {
+    "title": "Coffee Table",
+    "description": "Compact coffee table.",
+    "category": "Furniture",
+    "location": "Lahore"
+  },
+  {
+    "title": "Curtains",
+    "description": "Clean reusable curtains.",
+    "category": "Home",
+    "location": "Lahore"
+  },
+  {
+    "title": "Storage Box",
+    "description": "Plastic storage box.",
+    "category": "Storage",
+    "location": "Lahore"
+  },
+  {
+    "title": "Electric Kettle",
+    "description": "Working kettle.",
+    "category": "Kitchen",
+    "location": "Lahore"
+  },
+  {
+    "title": "Floor Mat",
+    "description": "Reusable floor mat.",
+    "category": "Home",
+    "location": "Lahore"
+  },
+  {
+    "title": "Study Table",
+    "description": "Simple study table.",
+    "category": "Furniture",
+    "location": "Lahore"
+  },
+  {
+    "title": "Wall Clock",
+    "description": "Working wall clock.",
+    "category": "Home",
+    "location": "Lahore"
+  },
+  {
+    "title": "Cooking Pot",
+    "description": "Reusable cooking pot.",
+    "category": "Kitchen",
+    "location": "Lahore"
+  },
+  {
+    "title": "Plastic Drawers",
+    "description": "Small drawer organizer.",
+    "category": "Storage",
+    "location": "Lahore"
+  },
+  {
+    "title": "Mirror",
+    "description": "Medium wall mirror.",
+    "category": "Home",
+    "location": "Lahore"
+  },
+  {
+    "title": "Side Table",
+    "description": "Small side table.",
+    "category": "Furniture",
+    "location": "Lahore"
+  },
+  {
+    "title": "Water Bottles",
+    "description": "Reusable bottles.",
+    "category": "Kitchen",
+    "location": "Lahore"
+  }
+]
