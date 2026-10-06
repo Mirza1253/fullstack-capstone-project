@@ -1,5 +1,5 @@
-cURL Command:
-curl.exe -s -X POST "http://localhost:5000/api/auth/register" -H "Content-Type: application/json" --data-binary "@D:\giftlink\register-body.json"
+cURL command:
+curl.exe -X POST http://localhost:5000/api/auth/register -H "Content-Type: application/json" -d '{"name":"Test User","email":"testuser2026@example.com","password":"TestPassword123!"}'
 
 Output:
-{"message":"Email already registered"}
+{"message":"Internal server error","error":"Expected property name or '}' in JSON at position 7 (line 2 column 5)"}
