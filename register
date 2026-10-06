@@ -1,5 +1,5 @@
 cURL command:
-curl.exe -X POST http://localhost:5000/api/auth/register -H "Content-Type: application/json" -d '{"name":"Test User","email":"testuser2026@example.com","password":"TestPassword123!"}'
+curl.exe -X POST http://localhost:5000/api/auth/register -H "Content-Type: application/json" --data-binary "@register-body-temp.json"
 
 Output:
-{"message":"Internal server error","error":"Expected property name or '}' in JSON at position 7 (line 2 column 5)"}
+{"user":{"name":"Test User 2","email":"testuser2026b@example.com","createdAt":"2026-10-06T15:06:29.989Z","_id":"6ac50e753b39d267f8fac9a2"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYzUwZTc1M2IzOWQyNjdmOGZhYzlhMiIsImVtYWlsIjoidGVzdHVzZXIyMDI2YkBleGFtcGxlLmNvbSIsImlhdCI6MTc5MTI5OTE5MCwiZXhwIjoxNzkxOTAzOTkwfQ.xcEIbsp_STzXvNxsTwkkq6HIxcRnLu1e7K0z3KyCFQA"}
